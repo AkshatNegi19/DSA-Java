@@ -2,11 +2,16 @@
 
 ## Problem
 
-Given a sorted integer array and a target value, return the indices of the two numbers whose sum equals the target.
+Given a **1-indexed sorted integer array** `numbers` and an integer `target`, find the two numbers whose sum is equal to the target.
 
-The same element cannot be used twice, and exactly one valid answer exists.
+Return the **1-based indices** of these two numbers.
 
----
+### Important Points
+
+- The array is already sorted in non-decreasing order.
+- Exactly one valid pair always exists.
+- The same element cannot be used twice.
+- The returned indices must be **1-indexed**, not **0-indexed**.
 
 ## Pattern
 
