@@ -6,7 +6,7 @@ Sliding Window maintains a window over contiguous elements and expands or shrink
 
 ---
 
-## When to Use
+## When to Use Sliding Window
 
 - Subarrays
 - Substrings
